@@ -11,12 +11,12 @@ brief have been completed (the requirement was a minimum of 3).
 
 | # | Task | Folder | Description |
 |---|---|---|---|
-| 1 | Exploring and Visualizing a Simple Dataset | [`Task1_Iris_Dataset`](./Task1_Iris_Dataset) | EDA and visualization on the Iris dataset |
-| 2 | Predict Future Stock Prices (Short-Term) | [`Task2_Stock_Prediction`](./Task2_Stock_Prediction) | Regression models to predict AAPL closing price |
-| 3 | Heart Disease Prediction | [`Task3_Heart_Disease`](./Task3_Heart_Disease) | Classification models to predict heart disease risk |
-| 4 | General Health Query Chatbot | [`Task4_Health_Chatbot`](./Task4_Health_Chatbot) | Prompt-engineered LLM chatbot with safety filters |
-| 5 | Mental Health Support Chatbot (Fine-Tuned) | [`Task5_Mental_Health_Chatbot`](./Task5_Mental_Health_Chatbot) | Fine-tuning DistilGPT2 on EmpatheticDialogues |
-| 6 | House Price Prediction | [`Task6_House_Price`](./Task6_House_Price) | Regression models to predict California housing prices |
+- [Task 1 Iris_Dataset_Exploration](./Task%201%20Iris_Dataset_Exploration/)
+- [Task 2 Stock_Price_Prediction](./Task%202%20Stock_Price_Prediction/)
+- [Task 3 Heart_Disease_Prediction](./Task%203%20Heart_Disease_Prediction/)
+- [Task 4 Health_Query_Chatbot](./Task%204%20Health_Query_Chatbot/)
+- [Task 5 Mental_Health_Chatbot](./Task%205%20Mental_Health_Chatbot/)
+- [Task 6 House_Price_Prediction](./Task%206%20House_Price_Prediction/)
 
 Each folder contains its own notebook, dataset (where applicable), and a
 README with the task's objective, dataset, models used, and key results.
