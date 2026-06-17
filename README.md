@@ -14,15 +14,27 @@ FieldDetailsNameSyed HassanInternshipAI/ML EngineeringOrganizationDevelopers Hub
 
 #TaskDescription
 Task 1: 
+
+
 Iris_Dataset_ExplorationExploratory Data Analysis (EDA) on the classic Iris dataset using visualization and statistical techniques
 Task 2: 
+
+
 Stock_Price_PredictionStock price forecasting using machine learning regression models
+
+
 Task 3: 
 Heart_Disease_PredictionBinary classification model to predict heart disease using patient health data
+
+
 Task 4: 
 Health_Query_ChatbotAI-powered chatbot for answering health-related queries using NLP
+
+
 Task 5: 
 Mental_Health_ChatbotLLM fine-tuned chatbot focused on mental health support and guidance
+
+
 Task 6: 
 House_Price_PredictionHouse price prediction using regression algorithms and feature engineering
 
