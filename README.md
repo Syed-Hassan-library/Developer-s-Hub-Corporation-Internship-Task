@@ -1,49 +1,104 @@
+🤖 AI/ML Engineering Internship Tasks
 
-# AI/ML Engineering Internship Tasks
+Developers Hub Corporation — AI/ML Engineering Internship
 
-**DevelopersHub Corporation — AI/ML Engineering Internship**
+This repository contains all tasks completed during the AI/ML Engineering Internship at Developers Hub Corporation, featuring machine learning classification workflows and LLM fine-tuning projects.
 
-This repository contains my completed tasks for the AI/ML Engineering
-Internship at DevelopersHub Corporation. All 6 tasks from the internship
-brief have been completed (the requirement was a minimum of 3).
 
-## Tasks
+👨‍💻 Intern Information
 
-| # | Task | Folder | Description |
-|---|---|---|---|
-- [Task 1 Iris_Dataset_Exploration](./Task%201%20Iris_Dataset_Exploration/)
-- [Task 2 Stock_Price_Prediction](./Task%202%20Stock_Price_Prediction/)
-- [Task 3 Heart_Disease_Prediction](./Task%203%20Heart_Disease_Prediction/)
-- [Task 4 Health_Query_Chatbot](./Task%204%20Health_Query_Chatbot/)
-- [Task 5 Mental_Health_Chatbot](./Task%205%20Mental_Health_Chatbot/)
-- [Task 6 House_Price_Prediction](./Task%206%20House_Price_Prediction/)
+FieldDetailsNameSyed HassanInternshipAI/ML EngineeringOrganizationDevelopers Hub CorporationRepositoryDeveloper-s-Hub-Corporation-Internship-Task
 
-Each folder contains its own notebook, dataset (where applicable), and a
-README with the task's objective, dataset, models used, and key results.
 
-## Skills Practiced
+📁 Tasks Overview
 
-- Data loading, cleaning, and exploratory data analysis (EDA)
-- Data visualization with `matplotlib` and `seaborn`
-- Regression modeling (Linear Regression, Random Forest, Gradient Boosting)
-- Classification modeling (Logistic Regression, Decision Tree) and
-  evaluation (accuracy, ROC-AUC, confusion matrix)
-- Prompt engineering and safety-filter design for LLM-based chatbots
-- Fine-tuning a language model with the Hugging Face `Trainer` API
-- Building simple CLI and Streamlit-based conversational interfaces
+#TaskDescription1Task 1 Iris_Dataset_ExplorationExploratory Data Analysis (EDA) on the classic Iris dataset using visualization and statistical techniques2Task 2 Stock_Price_PredictionStock price forecasting using machine learning regression models3Task 3 Heart_Disease_PredictionBinary classification model to predict heart disease using patient health data4Task 4 Health_Query_ChatbotAI-powered chatbot for answering health-related queries using NLP5Task 5 Mental_Health_ChatbotLLM fine-tuned chatbot focused on mental health support and guidance6Task 6 House_Price_PredictionHouse price prediction using regression algorithms and feature engineering
 
-## How to Run
 
-Each task folder has its own README with specific setup instructions.
-In general:
+🛠️ Technologies Used
 
-```bash
-git clone <this-repo-url>
-cd <task-folder>
-pip install -r requirements.txt   # or see the task's README for exact packages
-jupyter notebook <notebook-name>.ipynb
-```
 
-## Author
+Language: Python 3.x
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow / PyTorch
+NLP / LLM: Hugging Face Transformers, LangChain
+Environment: Jupyter Notebook
+Version Control: Git & GitHub
 
-Syed — AI & Data Science student, Saylani Mass IT Training, Karachi
+
+
+🚀 How to Run
+
+1. Clone the Repository
+
+bashgit clone https://github.com/Syed-Hassan-library/Developer-s-Hub-Corporation-Internship-Task.git
+cd Developer-s-Hub-Corporation-Internship-Task
+
+2. Install Dependencies
+
+bashpip install -r requirements.txt
+
+3. Open Any Task
+
+bashcd "Task 1 Iris_Dataset_Exploration"
+jupyter notebook
+
+
+📊 Task Details
+
+Task 1 — Iris Dataset Exploration
+
+
+Dataset: Iris (UCI ML Repository)
+Techniques: EDA, Data Visualization, Statistical Analysis
+Tools: Pandas, Matplotlib, Seaborn
+
+
+Task 2 — Stock Price Prediction
+
+
+Dataset: Historical stock market data
+Techniques: Time Series Analysis, Regression
+Tools: Scikit-learn, Pandas, Matplotlib
+
+
+Task 3 — Heart Disease Prediction
+
+
+Dataset: Cleveland Heart Disease Dataset
+Techniques: Classification (Logistic Regression, Random Forest, SVM)
+Tools: Scikit-learn, Pandas, Seaborn
+
+
+Task 4 — Health Query Chatbot
+
+
+Type: NLP-based Question Answering Chatbot
+Techniques: NLP, Intent Classification
+Tools: Transformers, LangChain
+
+
+Task 5 — Mental Health Chatbot
+
+
+Type: LLM Fine-tuned Conversational AI
+Techniques: LLM Fine-tuning, Prompt Engineering
+Tools: Hugging Face, Transformers
+
+
+Task 6 — House Price Prediction
+
+
+Dataset: House pricing data with multiple features
+Techniques: Regression, Feature Engineering, EDA
+Tools: Scikit-learn, Pandas, Matplotlib
+
+
+
+📬 Contact
+
+
+GitHub: Syed-Hassan-library
+
+
+
+⭐ If you found this helpful, please give it a star!
